@@ -31,5 +31,5 @@ proguard/
 *.iml
 
 #ORMGAP
-ormlite_config.txt
+#ormlite_config.txt
 build.properties
